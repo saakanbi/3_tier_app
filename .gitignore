@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Mac system files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Docker
+*.pid
+
